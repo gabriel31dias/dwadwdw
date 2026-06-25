@@ -1,0 +1,6 @@
+{
+  "name": "Nossa História",
+  "description": "Um álbum de fotos interativo e personalizado para casais, com linha do tempo, quiz interativo, cartas de amor reveláveis, céu estrelado e o grande pedido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
